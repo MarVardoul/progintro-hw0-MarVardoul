@@ -8,7 +8,7 @@ The sequence terminates when it reaches `0` or may fall into a repeating cycle.
 
 ---
 
-## �� Mathematical background
+##  Mathematical background
 
 For a number `n`, the sum of its proper divisors is defined as:
 
@@ -22,13 +22,13 @@ For example:
 
 The program uses this function to generate the aliquot sequence:
 \[
-n, s(n), s(s(n)), s(s(s(n))), \dots
+n, s(n), s(s(n)), s(s(s(n))), ...
 \]
 until it reaches `0` or exceeds the limit `10^{15}`.
 
 ---
 
-## ⚙️ Implementation details
+## Implementation details
 
 ### 1. Divisor sum computation
 
