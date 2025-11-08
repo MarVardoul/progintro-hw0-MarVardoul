@@ -163,3 +163,6 @@ To run:
 
 Code formatted using:  
 👉 [https://formatter.org](https://formatter.org/#:~:text=This%20online%20code%20formatter%20is%20capable%20of%20formatting,this%20tool%2C%20you%20can%20effectively%20beautify%20your%20code.)
+
+Additionally, chatGPT was used in order to write and format the final README file
+
